@@ -19,7 +19,11 @@ https://www.casact.org/sites/default/files/database/forum_08fforum_3barnett_zehn
 
 https://www.casact.org/sites/default/files/database/proceed_proceed00_00245.pdf
 
+## Compatibility
+This spreadsheet relies heavily on lambda functions. Excel 365 is recommended; Maybe Excel 2021 and later will work.
+
 ## Stuff that Needs work
 1. Graphs
-2. Better support for blank cells
-3. This readme
+2. Full (predicted) triangles
+3. Better support for blank cells
+4. This readme
